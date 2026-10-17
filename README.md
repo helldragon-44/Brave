@@ -221,4 +221,4 @@ Brave is offered as a complete free version with all features and updates includ
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-17 11:26:38 UTC
+**Last updated:** 2026-10-17 15:07:24 UTC
